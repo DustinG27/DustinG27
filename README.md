@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DustinG27
-- 👀 I’m interested in space, craft beer, cryptozoology, and video games.
+- 👀 I’m interested in space, craft beer, cryptozoology, and disk golf.
 - 🌱 I’m currently learning python, php, scriptwritting for graphic novels.
 - 💞️ I’m looking to collaborate on developing an app
 - 📫 How to reach me DustinG27@gmail.com

@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DustinG27
-- 👀 I’m interested in space, craft beer, cryptozoology, and disk golf.
-- 🌱 I’m currently learning python, php, scriptwritting for graphic novels.
-- 💞️ I’m looking to collaborate on developing an app
-- 📫 How to reach me DustinG27@gmail.com
+-  Hi, I’m @DustinG27
+-  I’m interested in space, craft beer, technology, and cyber security.
+-  I’m currently learning python, C#, and .NET.
+-  I’m looking improve my skills in coding in a professional setting.
+-  How to reach me DustinG27@gmail.com
 
 <!---
 DustinG27/DustinG27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
